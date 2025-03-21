@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Lista de favicons personalizados (identificador -> URL da imagem)
   var customFavicons = {
-      "wan.video": "/assets/img/icons/wan.ico",
-      "/lista/audio/edge": "/assets/img/icons/edge.ico"
+      "wan.video": "/ai-education-directory/assets/img/icons/wan.ico",
+      "/ai-education-directory/tutoriais/edge": "/ai-education-directory/assets/img/icons/edge.ico"
   };
 
   gridItems.forEach(link => {

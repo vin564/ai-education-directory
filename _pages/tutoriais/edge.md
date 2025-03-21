@@ -61,4 +61,4 @@ A função "Ler em voz alta" do Microsoft Edge permite que você ouça o conteú
 Agora você sabe como usar a função "Ler em voz alta" do Microsoft Edge, tanto para páginas da web quanto para arquivos PDF! Experimente e aproveite a leitura de suas páginas da web e documentos favoritos de uma maneira nova.
 
 
-## [⬅️ Voltar]({{ site.baseurl }}/lista/audio/)
+## [⬅️ Voltar]({{ site.baseurl }}/lista/audio)
