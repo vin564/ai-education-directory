@@ -3,8 +3,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Lista de favicons personalizados (identificador -> URL da imagem)
   var customFavicons = {
-      "wan.video": "/assets/images/icons/wan.ico", // Use a URL raw do GitHub para imagens
-      "/lista/audio/edge": "/assets/images/icons/edge.ico"
+      "wan.video": "/assets/img/icons/wan.ico",
+      "/lista/audio/edge": "/assets/img/icons/edge.ico"
   };
 
   gridItems.forEach(link => {

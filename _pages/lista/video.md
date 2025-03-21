@@ -14,7 +14,6 @@ Geradores de video de IA generativa.
   <div class="grid-item"><a href="https://www.stablevideo.com/" target="_blank">Stable Video</a></div>
   <div class="grid-item"><a href="https://hailuoai.video/" target="_blank">Hailuo AI Video</a></div>
   <div class="grid-item"><a href="https://lumalabs.ai/dream-machine" target="_blank">Luma Dream Machine</a></div>
-
 </div>
 
-## [⬅️ Voltar](/)
+## [⬅️ Voltar]({{ "/" | relative_url }})

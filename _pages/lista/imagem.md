@@ -26,4 +26,4 @@ Geradores de imagem de IA generativa. \
 \
 [Grok](https://grok.com){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [Gemini](https://gemini.google.com){:target="_blank"}
 
-## [⬅️ Voltar]({{ site.baseurl }}/)
+## [⬅️ Voltar]({{ "/" | relative_url }})

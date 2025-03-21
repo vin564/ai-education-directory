@@ -2,7 +2,7 @@
 defaults:
 layout: archive
 classes: default
-permalink: /lista/audio/edge
+permalink: /tutoriais/edge
 ---
 # Tutorial: Usando a Função "Ler em Voz Alta" do Microsoft Edge
 
