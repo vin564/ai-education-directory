@@ -5,5 +5,6 @@ classes: default
 permalink: /access
 ---
 ## Acesso confirmado 🔊
-![Neo](assets/images/neo.gif "Neo")
+![Neo]({{ "/assets/img/neo.gif" | relative_url }} "Neo")
+
 ## [⬅️ Voltar]({{ "/" | relative_url }})
