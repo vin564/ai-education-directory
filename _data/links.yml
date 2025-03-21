@@ -1,0 +1,17 @@
+- category: "Tecnologia"
+  links:
+    - name: "MDN Web Docs"
+      url: "https://developer.mozilla.org/"
+    - name: "GitHub"
+      url: "https://github.com/"
+    - name: "Stack Overflow"
+      url: "https://stackoverflow.com/"
+
+- category: "Educação"
+  links:
+    - name: "Coursera"
+      url: "https://www.coursera.org/"
+    - name: "Khan Academy"
+      url: "https://www.khanacademy.org/"
+    - name: "edX"
+      url: "https://www.edx.org/"

@@ -1,0 +1,66 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(auto, 200px)); /* Define uma largura máxima para as colunas */
+  gap: 10px; /* Mantenha ou ajuste o gap */
+  margin: 20px 0;
+  justify-content: left; /* Centraliza o grid horizontalmente */
+}
+
+.grid-item {
+  background: #ffffff;
+  padding-top: 20px; /* Aumentei o padding vertical (primeiro valor) */
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  transition: 0.1s ease;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+  display: flex;
+  flex-direction: column; /* Alinha o conteúdo na direção vertical */
+  align-items: center; /* Centraliza o conteúdo horizontalmente */
+  justify-content: center; /* Centraliza o conteúdo verticalmente */
+  width: 100%; /* Garante que os itens ocupem 100% do espaço disponível */
+  position: relative; /* Necessário para o posicionamento absoluto do link */
+  max-width: 100%; /* Permita que o item ocupe a largura da sua coluna */
+}
+
+
+/* Faz o link ocupar toda a caixa */
+.grid-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: absolute; /* Faz com que o link cubra toda a área da grid-item */
+  top: 0;
+  left: 0;
+}
+
+/* Estilo do favicon */
+.favicon {
+  width: 60px; /* Define um tamanho maior para o favicon */
+  height: 60px;
+  margin: 10px; /* Dá uma margem entre o ícone e o texto */
+
+}
+
+/* Efeito ao passar o mouse */
+.grid-item:hover {
+  background: #00cbe6;
+}
+
+/* Evita mudança de cor após o link ser visitado */
+.grid-item a:visited {
+  color: inherit;
+}
+
+[data-theme="dark"] .grid-item {
+  color: inherit !important;  /* Manter a cor do texto mesmo no modo escuro */
+}
+
+
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  margin: 1.25em 0 .2em;
+}
