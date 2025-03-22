@@ -55,12 +55,30 @@
   color: inherit;
 }
 
-[data-theme="dark"] .grid-item {
-  color: inherit !important;  /* Manter a cor do texto mesmo no modo escuro */
+.site-logo img {
+  max-height: 4rem;
 }
 
+.site-title {
+  font-size: 1.5rem;
+  background: #1E5579;
+  background: linear-gradient(to right, #1E5579 0%, #4D7295 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+} 
 
+.initial-content {
+  box-shadow: inset 0px 4px 8px -6px rgba(0, 0, 0, 0.24);
+}
+
+.page__footer {
+  box-shadow: 0px -4px 8px -4px rgba(0, 0, 0, 0.24);
+}
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   margin: 1.25em 0 .2em;
+}
+
+.social-icons {
+  display: none;
 }

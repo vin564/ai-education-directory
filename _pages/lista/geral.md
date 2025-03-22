@@ -11,13 +11,17 @@ Geradores de texto de IA generativa. \
 <div class="grid-container">
   <div class="grid-item"><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></div>
   <div class="grid-item"><a href="https://chat.deepseek.com" target="_blank">Deepseek</a></div>
+  <div class="grid-item"><a href="https://chat.qwen.ai/" target="_blank">Qwen</a></div>  
   <div class="grid-item"><a href="https://gemini.google.com/" target="_blank">Gemini</a></div>
-  <div class="grid-item"><a href="https://chat.qwen.ai/" target="_blank">Qwen</a></div>
+  <div class="grid-item"><a href="https://aistudio.google.com/app/prompts/new_chat" target="_blank">Google AI Studio</a></div>
   <div class="grid-item"><a href="https://copilot.microsoft.com/" target="_blank">Microsoft Copilot</a></div>
   <div class="grid-item"><a href="https://claude.ai/" target="_blank">Claude</a></div>
   <div class="grid-item"><a href="https://meta.ai" target="_blank">Meta AI</a></div>
   <div class="grid-item"><a href="https://grok.com" target="_blank">Grok</a></div>
-  <div class="grid-item"><a href="https://lmarena.ai" target="_blank">LMArena<sub><sup>(comparador)</sup></sub></a></div>
+  <div class="grid-item"><a href="https://lmarena.ai" target="_blank">LMArena<sub><sup>
+  (comparador)</sup></sub></a></div>
+  <div class="grid-item"><a href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1" target="_blank">DuckDuckGo AI</a></div>
+  <div class="grid-item"><a href="https://aiassistantbot.pages.dev" target="_blank">AI Assistant Bot</a></div>
 </div>
 
 
