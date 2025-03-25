@@ -36,4 +36,12 @@ Geradores de áudio de IA <sub><sup>(assim como alguns que não são IA).</sup><
   <div class="grid-item"><a href="https://talktyper.com" target="_blank">Talk Typer</a></div>
 </div>
 
+## Música 🎵
+<div class="grid-container">
+  <div class="grid-item"><a href="https://suno.com/home" target="_blank">Suno</a></div>
+  <div class="grid-item"><a href="https://www.riffusion.com/" target="_blank">Riffusion</a></div>
+  <div class="grid-item"><a href="https://labs.google/fx/pt/tools/music-fx" target="_blank">Google Music FX</a></div>
+  <div class="grid-item"><a href="https://labs.google/fx/pt/tools/music-fx-dj" target="_blank">Google Music FX DJ</a></div>
+</div>
+
 ## [⬅️ Voltar]({{ "/" | relative_url }})

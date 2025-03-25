@@ -13,6 +13,7 @@ Assistentes de texto baseados em IA que podem ajudar com pesquisas e estudos.
   <div class="grid-item"><a href="https://notebooklm.google" target="_blank">NotebookLM</a></div>
   <div class="grid-item"><a href="https://chatpdf.com/" target="_blank">ChatPDF</a></div>
   <div class="grid-item"><a href="https://askyourpdf.com" target="_blank">Ask Your PDF</a></div>
+  <div class="grid-item"><a href="https://www.humata.ai/" target="_blank">Humata AI</a></div>
   <div class="grid-item"><a href="https://app.docsgpt.cloud" target="_blank">DocsGPT</a></div>
 </div>
 

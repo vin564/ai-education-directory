@@ -26,7 +26,7 @@ Geradores de texto de IA generativa. \
 
 
 ## Motores de pesquisa IA 🔍
-Serviços específicos para buscar na internet com IA generativa.
+Serviços específicos para buscar informações da internet com IA generativa.
 <sub>Também podem ser utilizados como os da categoria acima.</sub> 
 
 <div class="grid-container">
@@ -35,10 +35,19 @@ Serviços específicos para buscar na internet com IA generativa.
   <div class="grid-item"><a href="https://you.com/" target="_blank">You</a></div>
   <div class="grid-item"><a href="https://wolframalpha.com/" target="_blank">Wolfram Alpha</a></div>
   <div class="grid-item"><a href="https://www.phind.com" target="_blank">Phind</a></div>
-  <div class="grid-item"><a href="https://rabbitholes.dojoma.ai" target="_blank">RabbitHoles</a></div>
   <div class="grid-item"><a href="https://www.morphic.sh" target="_blank">Morphic</a></div>
   <div class="grid-item"><a href="https://komo.ai" target="_blank">Komo</a></div>
   <div class="grid-item"><a href="https://search.jina.ai/" target="_blank">Jina</a></div>
 </div>
+
+## Brainstorming 🧠
+Plataformas que auxiliam na exploração de possibilidades de ideias criativas.
+
+<div class="grid-container">
+  <div class="grid-item"><a href="https://rabbitholes.dojoma.ai" target="_blank">RabbitHoles</a></div>
+  <div class="grid-item"><a href="https://monju.ai" target="_blank">Monju AI</a></div>
+</div>
+
+
 
 ## [⬅️ Voltar]({{ "/" | relative_url }})
