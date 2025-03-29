@@ -12,9 +12,11 @@ Geradores de imagem de IA generativa. \
   <div class="grid-item"><a href="https://labs.google/fx/tools/image-fx" target="_blank">ImageFX</a></div>
   <div class="grid-item"><a href="https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell" target="_blank">FLUX.1 [Schnell]</a></div>
   <div class="grid-item"><a href="https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev/" target="_blank">FLUX.1 [Dev]</a></div>
-  <div class="grid-item"><a href="https://labs.google/fx/pt/tools/whisk" target="_blank">Whisk (Google)</a></div>
+  <div class="grid-item"><a href="https://labs.google/fx/pt/tools/whisk" target="_blank">Whisk (Google) </a></div>
   <div class="grid-item"><a href="https://www.mage.space/" target="_blank">Mage</a></div>
   <div class="grid-item"><a href="https://leonardo.ai" target="_blank">Leonardo</a></div>
+  <div class="grid-item"><a href="https://piclumen.com/" target="_blank">PicLumen</a></div>
+  <div class="grid-item"><a href="https://dezgo.com/" target="_blank">Dezgo</a></div>
   <div class="grid-item"><a href="https://image.nexusmind.tech/" target="_blank">NexusAI Image</a></div>
 </div>
 

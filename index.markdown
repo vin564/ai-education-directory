@@ -12,6 +12,7 @@ classes: wide
 - [🔊 Geradores de Áudio (Voz, Música)]({{ "/lista/audio" | relative_url }})
 - [🎥 Geradores de Vídeo]({{ "/lista/video" | relative_url }})
 - [🧪 Pesquisa]({{ "/lista/pesquisa" | relative_url }})
+- [👨‍🏫 Educação]({{ "/lista/educacao" | relative_url }})
 - [👥 Roleplaying / Interação com personagens]({{ "/lista/roleplaying" | relative_url }})
 - [🔗 Outros recursos]({{ "/lista/outros" | relative_url }})
 - [📜 Todos (em formato de lista)]({{ "/lista/todos" | relative_url }})

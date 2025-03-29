@@ -2,6 +2,8 @@
 main:
   - title: "Glossário"
     url: /glossario
+  - title: "Bancos de Prompts"
+    url: /prompts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

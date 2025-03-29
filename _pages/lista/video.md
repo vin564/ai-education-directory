@@ -15,7 +15,9 @@ Geradores de video de IA generativa.
   <div class="grid-item"><a href="https://www.stablevideo.com/" target="_blank">Stable Video</a></div>
   <div class="grid-item"><a href="https://hailuoai.video/" target="_blank">Hailuo AI Video</a></div>
   <div class="grid-item"><a href="https://klingai.com" target="_blank">Kling AI</a></div>
+  <div class="grid-item"><a href="https://videoplus.ai/" target="_blank">VideoPlus AI</a></div>
   <div class="grid-item"><a href="https://lumalabs.ai/dream-machine" target="_blank">Luma Dream Machine</a></div>
+  <div class="grid-item"><a href="https://sketch.metademolab.com" target="_blank">Meta Animated Drawings</a></div>
 </div>
 
 ## Removedores de Marca d'Água 🧼
