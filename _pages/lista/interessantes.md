@@ -5,7 +5,7 @@ classes: default
 permalink: /lista/interessantes
 ---
 ## Interessantes 👀
-Sites interessantes, divertidos, curiosos, baseados em IA. \
+Sites interessantes, divertidos, curiosos, baseados em IA.
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://infiniteconversation.com/" target="_blank">Infinite Conversation</a></div>
