@@ -14,6 +14,7 @@ classes: wide
 - [🧪 Pesquisa]({{ "/lista/pesquisa" | relative_url }})
 - [👨‍🏫 Educação]({{ "/lista/educacao" | relative_url }})
 - [👥 Roleplaying / Interação com personagens]({{ "/lista/roleplaying" | relative_url }})
+- [👀 Interessantes]({{ "/lista/interessantes" | relative_url }})
 - [🔗 Outros recursos]({{ "/lista/outros" | relative_url }})
 - [📜 Todos (em formato de lista)]({{ "/lista/todos" | relative_url }})
 

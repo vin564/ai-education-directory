@@ -19,8 +19,10 @@ Geradores de texto de IA generativa. \
   <div class="grid-item"><a href="https://meta.ai" target="_blank">Meta AI</a></div>
   <div class="grid-item"><a href="https://grok.com" target="_blank">Grok</a></div>
   <div class="grid-item"><a href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1" target="_blank">DuckDuckGo AI</a></div>
+  <div class="grid-item"><a href="https://scira.app/" target="_blank">Scira</a></div>
+  <div class="grid-item"><a href="https://huggingface.co/chat/" target="_blank">HuggingChat</a></div>
   <div class="grid-item"><a href="https://aiassistantbot.pages.dev" target="_blank">AI Assistant Bot</a></div>
-    <div class="grid-item"><a href="https://lmarena.ai" target="_blank">LMArena<sub><sup>
+  <div class="grid-item"><a href="https://lmarena.ai" target="_blank">LMArena<sub><sup>
   (comparador)</sup></sub></a></div>
 </div>
 
@@ -31,7 +33,6 @@ Serviços específicos para buscar informações da internet com IA generativa.
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://www.perplexity.ai" target="_blank">Perplexity</a></div>
-  <div class="grid-item"><a href="https://scira.app/" target="_blank">Scira</a></div>
   <div class="grid-item"><a href="https://you.com/" target="_blank">You</a></div>
   <div class="grid-item"><a href="https://www.phind.com" target="_blank">Phind</a></div>
   <div class="grid-item"><a href="https://www.morphic.sh" target="_blank">Morphic</a></div>
