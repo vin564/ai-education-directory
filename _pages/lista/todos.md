@@ -10,16 +10,16 @@ Os mesmos itens, porém em formato de lista e com detalhes extras, como limites.
 # Gerais 🌎
 [ChatGPT](https://chatgpt.com/) - GPT-4o / o3-mini    
 [Deepseek](https://chat.deepseek.com) - (ilimitado)   
-[Qwen](https://chat.qwen.ai/)
-[Gemini](https://gemini.google.com/) 
-[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)  
+[Qwen](https://chat.qwen.ai/)   
+[Gemini](https://gemini.google.com/)     
+[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)      
 [Microsoft Copilot](https://copilot.microsoft.com/)  
 [Claude](https://claude.ai/)  
 [Meta AI](https://meta.ai)  
 [Grok](https://grok.com) - Grok 2 (30 por hora) / Grok 3 (12 por cada 2 horas)  
-[DuckDuckGo AI](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1) 
-[Scira](https://scira.app/)
-[Hugging Face Chat](https://huggingface.co/chat/)	  
+[DuckDuckGo AI](https://duck.ai)     
+[Scira](https://scira.app/)     
+[HuggingChat](https://huggingface.co/chat/)	  
 [AI Assistant Bot](https://aiassistantbot.pages.dev)  
 [LMArena](https://lmarena.ai) - Comparador / Ranking de modelos de IA   
 
@@ -32,7 +32,8 @@ Os mesmos itens, porém em formato de lista e com detalhes extras, como limites.
 [Jina](https://search.jina.ai/)	     
 [Wolfram Alpha](https://wolframalpha.com/) - Base de dados buscável     
 
-**Brainstorming 🧠**  
+**Brainstorming 🧠**   
+[goblin.tools](https://goblin.tools)    
 [RabbitHoles](https://rabbitholes.dojoma.ai)	  
 [Monju AI](https://monju.ai)	
 
@@ -87,8 +88,8 @@ Os mesmos itens, porém em formato de lista e com detalhes extras, como limites.
 
 [Pixverse](https://pixverse.ai/) - 2 Diários	  
 [WAN Video](https://wan.video) - 10 Diários	  	  
-[Genmo](https://www.genmo.ai/) - 30 Mensais	  	
-[Google AI Studio (Video)](https://aistudio.google.com/generate-video)	  
+[Genmo](https://www.genmo.ai/) - 30 Mensais     
+[Google AI Studio (Video)](https://aistudio.google.com/generate-video)  	  
 [Immersity AI](https://app.immersity.ai/)	  
 [Stable Video](https://www.stablevideo.com/)	  
 [Hailuo AI Video](https://hailuoai.video/) - 3 Diários	  	  
@@ -116,18 +117,17 @@ Os mesmos itens, porém em formato de lista e com detalhes extras, como limites.
 [Character AI](https://character.ai/)	  
 [FlowGPT](https://flowgpt.com)	  
 [GPT Call](https://gptcall.net/)	  
-[Call Annie](https://callannie.ai/call)
+[Call Annie](https://callannie.ai/call)     
 [Sesame](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)	 
  
-
-
 ## Interessantes 👀
-
+ 
 [Infinite Conversation](https://infiniteconversation.com/)	  
 [Infinite Convo](https://infiniteconvo.ai/)	  
 [Goody2](https://www.goody2.ai/chat)	  
 [Bored Humans](https://boredhumans.com)	  
 [Human or Not.ai](https://www.humanornot.ai)	  
-[Human or Not.so](https://humanornot.so)	  
+[Human or Not.so](https://humanornot.so)
+	  
 
 ## [⬅️ Voltar]({{ "/" | relative_url }})

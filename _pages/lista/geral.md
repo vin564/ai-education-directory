@@ -45,6 +45,7 @@ Serviços específicos para buscar informações da internet com IA generativa.
 Plataformas que auxiliam na exploração de possibilidades de ideias criativas.
 
 <div class="grid-container">
+  <div class="grid-item"><a href="https://goblin.tools" target="_blank">goblin.tools</a></div>
   <div class="grid-item"><a href="https://rabbitholes.dojoma.ai" target="_blank">RabbitHoles</a></div>
   <div class="grid-item"><a href="https://monju.ai" target="_blank">Monju AI</a></div>
 </div>
