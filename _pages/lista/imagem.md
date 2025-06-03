@@ -23,7 +23,8 @@ Geradores de imagem de IA generativa. \
   <div class="grid-item"><a href="https://aigallery.app/" target="_blank">AI Gallery</a></div>
   <div class="grid-item"><a href="https://wan.video/" target="_blank">WAN Video</a></div>
   <div class="grid-item"><a href="https://www.recraft.ai/" target="_blank">Recraft AI</a></div>
-  <div class="grid-item"><a href="https://imgsys.org/" target="_blank">Image Systems</a></div>
+  <div class="grid-item"><a href="https://imgsys.org/" target="_blank">imgsys</a></div>
+  <div class="grid-item"><a href="https://image-gpt.com" target="_blank">ImageGPT</a></div>
 </div>
 
 

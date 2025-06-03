@@ -52,7 +52,8 @@ Os mesmos itens, porém em formato de lista e com detalhes extras, como limites.
 [AI Gallery](https://aigallery.app/) - Ilimitado 	  
 [WAN Video](https://wan.video/) - 100 Diários 	  
 [Recraft](https://www.recraft.ai/) - 50 Diários	  
-[ImgSys](https://imgsys.org/) - Ilimitado, comparador de modelos	  	  
+[imgsys](https://imgsys.org/) - Ilimitado, comparador de modelos    
+[Image GPT](https://image-gpt.com)		  	  
 
 ## Geradores de Áudio 🔊
 **Texto para voz 🗣️**   
@@ -110,7 +111,8 @@ Os mesmos itens, porém em formato de lista e com detalhes extras, como limites.
 [ChatPDF](https://chatpdf.com/)	  
 [Ask Your PDF](https://askyourpdf.com)	  
 [Humata AI](https://www.humata.ai/)	  
-[DocsGPT](https://app.docsgpt.cloud)	  
+[DocsGPT](https://app.docsgpt.cloud)    	  
+[WikiGen.ai](https://www.wikigen.ai)     
 
 ## Roleplaying / Interação com personagens 👥
 

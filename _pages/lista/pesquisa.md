@@ -15,6 +15,7 @@ Assistentes de texto baseados em IA que podem ajudar com pesquisas e estudos.
   <div class="grid-item"><a href="https://askyourpdf.com" target="_blank">Ask Your PDF</a></div>
   <div class="grid-item"><a href="https://www.humata.ai/" target="_blank">Humata AI</a></div>
   <div class="grid-item"><a href="https://app.docsgpt.cloud" target="_blank">DocsGPT</a></div>
+  <div class="grid-item"><a href="https://www.wikigen.ai" target="_blank">WikiGen.ai</a></div>
 </div>
 
 ## [⬅️ Voltar]({{ "/" | relative_url }})
