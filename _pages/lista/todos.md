@@ -90,3 +90,5 @@ function isVoltarLink(linkElement) {
   }
 })();
 </script>
+
+## [⬅️ Voltar]({{ "/" | relative_url }})
