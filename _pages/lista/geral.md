@@ -6,7 +6,7 @@ permalink: /lista/geral
 ---
 ## Gerais 🌎
 Geradores de texto de IA generativa. \
-<sub>Dependendo do serviço, podem fazer mais que gerar texto. (Ex: Geração de imagens.)</sub>
+<sub>Dependendo do serviço, podem fazer mais que gerar texto (Ex: Geração de imagens, gráficos, etc).</sub>
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></div>
@@ -14,16 +14,18 @@ Geradores de texto de IA generativa. \
   <div class="grid-item"><a href="https://chat.qwen.ai/" target="_blank">Qwen</a></div>  
   <div class="grid-item"><a href="https://gemini.google.com/" target="_blank">Gemini</a></div>
   <div class="grid-item"><a href="https://aistudio.google.com/app/prompts/new_chat" target="_blank">Google AI Studio</a></div>
+  <div class="grid-item"><a href="https://chat.z.ai" target="_blank">Z.ai</a></div>
+  <div class="grid-item"><a href="https://www.kimi.com/" target="_blank">Kimi</a></div>
   <div class="grid-item"><a href="https://copilot.microsoft.com/" target="_blank">Microsoft Copilot</a></div>
   <div class="grid-item"><a href="https://claude.ai/" target="_blank">Claude</a></div>
   <div class="grid-item"><a href="https://meta.ai" target="_blank">Meta AI</a></div>
   <div class="grid-item"><a href="https://grok.com" target="_blank">Grok</a></div>
   <div class="grid-item"><a href="https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1" target="_blank">DuckDuckGo AI</a></div>
+  <div class="grid-item"><a href="https://chat.mistral.ai/chat" target="_blank">Mistral</a></div>
   <div class="grid-item"><a href="https://scira.app/" target="_blank">Scira</a></div>
   <div class="grid-item"><a href="https://huggingface.co/chat/" target="_blank">HuggingChat</a></div>
   <div class="grid-item"><a href="https://aiassistantbot.pages.dev" target="_blank">AI Assistant Bot</a></div>
-  <div class="grid-item"><a href="https://lmarena.ai" target="_blank">LMArena<sub><sup>
-  (comparador)</sup></sub></a></div>
+  <div class="grid-item"><a href="https://lmarena.ai" target="_blank">LMArena</a></div>
 </div>
 
 
@@ -33,6 +35,7 @@ Serviços específicos para buscar informações da internet com IA generativa.
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://www.perplexity.ai" target="_blank">Perplexity</a></div>
+  <div class="grid-item"><a href="https://google.com/aimode" target="_blank">Google AI Mode</a></div>
   <div class="grid-item"><a href="https://you.com/" target="_blank">You</a></div>
   <div class="grid-item"><a href="https://www.phind.com" target="_blank">Phind</a></div>
   <div class="grid-item"><a href="https://www.morphic.sh" target="_blank">Morphic</a></div>
@@ -42,7 +45,7 @@ Serviços específicos para buscar informações da internet com IA generativa.
 </div>
 
 ## Brainstorming 🧠
-Plataformas que auxiliam na exploração de possibilidades de ideias criativas.
+Plataformas que auxiliam na exploração de ideias.
 
 <div class="grid-container">
   <div class="grid-item"><a href="https://goblin.tools" target="_blank">goblin.tools</a></div>

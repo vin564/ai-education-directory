@@ -1,0 +1,4 @@
+{% capture mdcontent %}
+{% include_relative {{ include.file }} %}
+{% endcapture %}
+{{ mdcontent | markdownify }}

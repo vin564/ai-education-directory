@@ -13,6 +13,7 @@ Geradores de imagem de IA generativa. \
   <div class="grid-item"><a href="https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell" target="_blank">FLUX.1 [Schnell]</a></div>
   <div class="grid-item"><a href="https://huggingface.co/spaces/black-forest-labs/FLUX.1-dev/" target="_blank">FLUX.1 [Dev]</a></div>
   <div class="grid-item"><a href="https://labs.google/fx/pt/tools/whisk" target="_blank">Whisk (Google) </a></div>
+  <div class="grid-item"><a href="https://perchance.org/ai-text-to-image-generator" target="_blank">Perchance</a></div>
   <div class="grid-item"><a href="https://designer.microsoft.com/image-creator" target="_blank">Microsoft Designer</a></div>
   <div class="grid-item"><a href="https://www.mage.space/" target="_blank">Mage</a></div>
   <div class="grid-item"><a href="https://leonardo.ai" target="_blank">Leonardo</a></div>
@@ -31,6 +32,6 @@ Geradores de imagem de IA generativa. \
 ## Menções Honrosas 🏅
 <sub>(Já presentes na categoria "Gerais")</sub> \
 \
-[Grok](https://grok.com){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [Gemini](https://gemini.google.com){:target="_blank"}, [Google AI Studio](https://aistudio.google.com/){:target="_blank"}, [Meta AI](ttps://meta.ai){:target="_blank"}
+[Gemini](https://gemini.google.com){:target="_blank"}, [Google AI Studio](https://aistudio.google.com/){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [LMArena](https://lmarena.ai/?mode=direct&chat-modality=image){:target="_blank"}, [Grok](https://grok.com){:target="_blank"}, [Qwen](https://chat.qwen.ai){:target="_blank"}, [Meta AI](ttps://meta.ai){:target="_blank"}
 
 ## [⬅️ Voltar]({{ "/" | relative_url }})

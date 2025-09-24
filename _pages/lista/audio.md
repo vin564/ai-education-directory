@@ -11,7 +11,8 @@ Geradores de áudio de IA <sub><sup>(assim como alguns que não são IA).</sup><
 <div class="grid-container">
   <div class="grid-item"><a href="https://www.text-to-speech.online" target="_blank">TTS Online</a></div>
   <div class="grid-item"><a href="{{ '/tutoriais/edge' | relative_url }}">Microsoft Edge</a></div>
-  <div class="grid-item"><a href="https://beta.elevenlabs.io/" target="_blank">Eleven Labs Beta</a></div>
+  <div class="grid-item"><a href="https://uberduck.ai/" target="_blank">Uberduck</a></div>
+  <div class="grid-item"><a href="https://elevenlabs.io/" target="_blank">Eleven Labs</a></div>
   <div class="grid-item"><a href="https://pt.rask.ai/" target="_blank">Rask AI</a></div>
   <div class="grid-item"><a href="https://www.vanillavoice.com/" target="_blank">Vanillavoice</a></div>
   <div class="grid-item"><a href="https://luvvoice.com/" target="_blank">Luvvoice</a></div>
@@ -39,7 +40,7 @@ Geradores de áudio de IA <sub><sup>(assim como alguns que não são IA).</sup><
 ## Música 🎵
 <div class="grid-container">
   <div class="grid-item"><a href="https://suno.com/home" target="_blank">Suno</a></div>
-  <div class="grid-item"><a href="https://www.riffusion.com/" target="_blank">Riffusion</a></div>
+  <div class="grid-item"><a href="https://producer.ai" target="_blank">Producer.ai</a></div>
   <div class="grid-item"><a href="https://labs.google/fx/pt/tools/music-fx" target="_blank">Google Music FX</a></div>
   <div class="grid-item"><a href="https://labs.google/fx/pt/tools/music-fx-dj" target="_blank">Google Music FX DJ</a></div>
 </div>

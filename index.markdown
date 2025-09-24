@@ -18,6 +18,4 @@ classes: wide
 - [🔗 Outros recursos]({{ "/lista/outros" | relative_url }})
 - [📜 Todos (em formato de lista)]({{ "/lista/todos" | relative_url }})
 
-
-
 <sup><sub>[Teste de acesso]({{ "/access" | absolute_url }})</sub></sup>
