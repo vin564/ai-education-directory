@@ -14,7 +14,7 @@ Geradores de video de IA generativa.
   <div class="grid-item"><a href="https://aistudio.google.com/generate-video" target="_blank">Google AI Studio (Video)</a></div>
   <div class="grid-item"><a href="https://app.immersity.ai/" target="_blank">Immersity AI</a></div>
   <div class="grid-item"><a href="https://www.stablevideo.com/" target="_blank">Stable Video</a></div>
-  <div class="grid-item"><a href="https://hailuoai.video/" target="_blank">Hailuo AI Video</a></div>
+  <div class="grid-item"><a href="https://hailuoai.video/" target="_blank">Hailuo AI</a></div>
   <div class="grid-item"><a href="https://klingai.com" target="_blank">Kling AI</a></div>
   <div class="grid-item"><a href="https://videoplus.ai/" target="_blank">VideoPlus AI</a></div>
   <div class="grid-item"><a href="https://lumalabs.ai/dream-machine" target="_blank">Luma Dream Machine</a></div>

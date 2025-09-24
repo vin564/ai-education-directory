@@ -5,7 +5,7 @@ permalink: /lista/todos
 ---
 
 ## Todos 📜
-Os mesmos itens, em formato de lista.
+Os mesmos itens,  em formato de lista.
 
 <div id="lista-todas-categorias"></div>
 
