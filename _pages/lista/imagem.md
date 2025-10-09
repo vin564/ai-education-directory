@@ -34,4 +34,5 @@ Geradores de imagem de IA generativa. \
 \
 [Gemini](https://gemini.google.com){:target="_blank"}, [Google AI Studio](https://aistudio.google.com/){:target="_blank"}, [ChatGPT](https://chat.openai.com){:target="_blank"}, [LMArena](https://lmarena.ai/?mode=direct&chat-modality=image){:target="_blank"}, [Grok](https://grok.com){:target="_blank"}, [Qwen](https://chat.qwen.ai){:target="_blank"}, [Meta AI](ttps://meta.ai){:target="_blank"}
 
+#### ⚙️ [Engenharia de Prompt de Imagens]({{ "/tutoriais/recursosimagem" | relative_url }})
 ## [⬅️ Voltar]({{ "/" | relative_url }})

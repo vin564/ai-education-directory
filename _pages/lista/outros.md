@@ -13,5 +13,5 @@ Outros guias e cursos com informações úteis.
 - [Guias de Engenharia de Prompt](https://learnprompting.org/docs/introduction){:target="_blank"}, [2](https://www.promptingguide.ai/pt){:target="_blank"} 
 - [Fonte dos "10 Direcionamentos"](https://www.controlaltachieve.com/2025/01/top-10-components-of-perfect-ai-prompt.html){:target="_blank"}
 - [Planilha sobre privacidade e segurança de IA](https://docs.google.com/spreadsheets/d/1gWC69fc7HNMmXCdvfascT70d_NgrqvelRthU6Ex5mGw/edit?gid=1013333030#gid=1013333030){:target="_blank"}
-
+- [Engenharia de Prompt de Imagens ⚙️]({{ "/tutoriais/recursosimagem" | relative_url }})
 ## [⬅️ Voltar]({{ "/" | relative_url }})
